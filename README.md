@@ -2,7 +2,9 @@
 
 A powerful and user-friendly macOS Quick Action to check PHP compatibility for WordPress plugins and projects. Easily verify the minimum PHP version required for your code, right from Finder!
 
----
+
+## 📸 Sample report
+<img src="Screenshot.png" width="300" />
 
 ## 📦 Features
 
@@ -12,7 +14,6 @@ A powerful and user-friendly macOS Quick Action to check PHP compatibility for W
 - 📂 Opens the report in TextEdit, clean and formatted.
 - 🔔 Notifications for start and completion of the scan.
 
----
 
 ## 🖥️ **Installation (macOS)**
 
@@ -45,7 +46,6 @@ composer --version
 phpcs --version
 ```
 
----
 
 ## ⚙️ **Setup Quick Action (Automator)**
 
@@ -62,7 +62,6 @@ phpcs --version
 
 6. Save the Quick Action as **PHP Compatibility Check**.
 
----
 
 ## 📝 **How to Use**
 
@@ -71,26 +70,21 @@ phpcs --version
 3. Enter the desired PHP version (default: `7.1`).
 4. View the detailed report in TextEdit.
 
----
-
 ## 🤝 **Credits**
 
 Developed by [Amirhossein Hosseinpour](https://amirhp.com) 🖤
 Powered by **BlackSwanDev** and the **PHPCompatibility Standard**.
 
----
 
 ## ⚠️ **Disclaimer & Warranty**
 
 This tool is provided **as-is**, without warranty of any kind, express or implied.
 The developer assumes **no responsibility** for any issues arising from the use of this tool.
 
----
 
 ## 📄 **License**
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
----
 
 💡 **Enjoy effortless PHP compatibility checks!** If you find this tool useful, ⭐️ star the repo and share it with others!
